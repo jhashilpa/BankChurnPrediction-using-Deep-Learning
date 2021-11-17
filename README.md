@@ -10,6 +10,6 @@ The case study is from an open-source dataset from Kaggle.The dataset contains 1
 
 4>Used Relu as activation function in the Input Layer and the hiddlen layer. As its a classifictaion problem,We have used Sigmoid in the output layer as the activation function.
 
-5>Modle is trained and  average loss is being captures at each epoch.
+5>Model is trained and  average loss is being captures at each epoch.
 
 6>Also implemented Batch Normalization and drop out layer to increase the accuracy.
